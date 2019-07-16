@@ -2,7 +2,7 @@ package no.satyam.ocp.chap1;
 
 /**
  *
- * @author satyam
+ * @author satyam A
  */
 public class EnumDemo {
 
